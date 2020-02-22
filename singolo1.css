@@ -100,12 +100,7 @@
   left: 210px;
 }
 
-.buttom--left:hover {
-  cursor: pointer;
-  opacity: 50%;
-}
-
-.buttom--right:hover {
+.buttom__slider {
   cursor: pointer;
   opacity: 50%;
 }
