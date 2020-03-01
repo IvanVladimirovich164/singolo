@@ -5,6 +5,7 @@ body {
     padding: 0;  
 }
 
+/*portfolio*/
 .portfolio__wrap {
     width: 1020px;
     height: 100%;
@@ -153,6 +154,7 @@ body {
     background-image: url(./assets/img12.png);       
 }
 
+/*about*/
 .about__wrapper {
     width: 1020px;
     height: 668px;
